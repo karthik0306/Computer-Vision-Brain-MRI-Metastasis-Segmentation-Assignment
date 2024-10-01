@@ -1,0 +1,8 @@
+brain_mri_segmentation/
+│
+├── data_preprocessing.py
+├── models.py
+├── train.py
+├── app.py
+└── ui.py
+
